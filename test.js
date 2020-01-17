@@ -21,4 +21,5 @@ function checkUserName(userName) {
 //    console.error('Error: ajax connection failed.');
 //  })
 ;
+
 }
